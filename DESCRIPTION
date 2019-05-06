@@ -1,0 +1,13 @@
+Package: modifile
+Type: Package
+Title: Manipulate filenames in R.
+Version: 0.1.0
+Author: Paul Jensen
+Maintainer: Paul Jensen <software@jensenlab.net>
+Description: Separate, modify, and join parts of filenames.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports:
+  stringr
+RoxygenNote: 6.0.1
